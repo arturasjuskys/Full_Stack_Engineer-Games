@@ -1,16 +1,25 @@
 # IT Career Switch - Find the Hat
 ### CodeCademy | Full-Stack Engineer | JavaScript Syntax, Part III
+
+![](./Capture01.PNG)
+
+![](./Capture02.PNG)
+
 ## Description
 Node.js game, entry point through command line. Game objective is to find the hat and avoid holes on grid based map.
-### Start the game
+
+## Start the game
 Terminal => node app.js
-### Environment variables
+
+## Environment variables
 app.js => file bottom => game.generateField();
-### Game controlls
+
+## Game controlls
 * u - up
 * r - right
 * d - down
 * l - left
+
 ## Improvements
 * Ask at start of the game how big the map player wants
 * After loosing the game ask if player wants to start new game

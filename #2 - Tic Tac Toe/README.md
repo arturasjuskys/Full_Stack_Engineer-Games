@@ -24,9 +24,9 @@ Here are some ideas for improvements to make, listed in order of increasing diff
 * Tutorial for the game - https://reactjs.org/tutorial/tutorial.html#inspecting-the-starter-code
 * Developer Tools - React inspection tool - https://reactjs.org/tutorial/tutorial.html#developer-tools
 
- 
+![](./Capture.png)
 
-## Getting Started with Create React App
+<!-- ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 In the project directory, you can run:
@@ -65,4 +65,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 ### `npm run build` fails to minify
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
